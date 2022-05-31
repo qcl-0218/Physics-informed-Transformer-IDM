@@ -9,3 +9,6 @@ The Physics-Informed Transformer-IDM was constructed based on the open-source de
 
 # Citation
 If you find our work useful for your research, please consider citing the paper (the paper is now under review). 
+
+# Reference 
+The "multi_attention_forward.py" code base borrows from https://github.com/Majiker/STAR
